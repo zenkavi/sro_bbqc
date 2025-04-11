@@ -1,0 +1,1 @@
+# After make_dm_reports.sh is run for all subjects/tasks this script will be run to aggregate the results
